@@ -1,0 +1,21 @@
+<APP>
+	<AGENTS>
+		<totalAgents>20</totalAgents>
+		<N_STATES>18</N_STATES>
+		<EPSILON>0.9</EPSILON>
+		<ALPHA>0.1</ALPHA>
+		<GAMMA>0.9</GAMMA>
+		<MAX_EPISODES>100</MAX_EPISODES>
+		<REFRESH_TIME_MIN>0.1</REFRESH_TIME_MIN>
+		<REFRESH_TIME_MAX>1.0</REFRESH_TIME_MAX>
+		<EPISODE_TIME>0</EPISODE_TIME>
+		<PORT>ttyACM0</PORT>
+		<BAUD>57600</BAUD>
+		<lineWidth>1</lineWidth>
+		<useMotors>1</useMotors>
+		<totalMotors>5</totalMotors>
+		<fontSize>10</fontSize>
+		<w>1200</w>
+		<h>768</h>
+	</AGENTS>
+</APP>
